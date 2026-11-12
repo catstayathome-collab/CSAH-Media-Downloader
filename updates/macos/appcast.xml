@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>CSAH Media Downloader updates</title>
+    <item>
+      <title>CSAH Media Downloader 2.9.2</title>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>2.9.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Thu, 12 Nov 2026 04:47:56 GMT</pubDate>
+      <description>CSAH Media Downloader 2.9.2（build 58）
+
+- 帳務頁搬到新網址 billing.catstayathome.com，外觀更新並支援深色模式。2.9.1 及更早版本的「方案與帳務」已無法使用，更新到此版本即可恢復。
+- 新增 App 內公告：服務條款、價格或其他重要事項有變更時，會在 App 內通知。
+- 更新與公告改由 downloads.catstayathome.com 提供。
+- 客服信箱改為 support@catstayathome.com。
+
+支援Apple Silicon及macOS 13或更新版本。2.8.0及更早版本首次仍需手動安裝含更新器的版本。</description>
+      <enclosure url="https://github.com/catstayathome-collab/CSAH-Media-Downloader/releases/download/macos-v2.9.2/CSAH-Media-Downloader-2.9.2-build-58-macOS-arm64.zip" sparkle:edSignature="bKcOgtLHKgOtXeFTbStnAGHosZbOUo/jA6jBgXXqCq8oOej8o/p9Op0Xv5dzdPefxVbcMpDLZ1jWYssbMOI9BA==" length="51204012" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>CSAH Media Downloader 2.9.1</title>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Wed, 11 Nov 2026 08:55:21 GMT</pubDate>
+      <description>CSAH Media Downloader 2.9.1（build 57）
+
+- 選擇「QuickTime 相容」時的說明縮短為一句：「轉檔可能需要額外時間。」
+- 新增 Threads：可下載公開貼文中的影片，包含多支影片與圖文混合貼文中的影片。
+- 帳務與付款頁連線更穩定：等待時間延長，查詢失敗會自動重試；網路中斷時顯示專屬提示，恢復後自動重新查詢。不會自動重送付款或取消操作。
+- 帳務發生問題時顯示錯誤代碼，並可直接回報問題，回報內容會自動帶入代碼。
+- 帳務日期改以這台電腦的時區顯示。
+
+支援Apple Silicon及macOS 13或更新版本。2.8.0及更早版本首次仍需手動安裝含更新器的版本。</description>
+      <enclosure url="https://github.com/catstayathome-collab/YT-Downloader-Pro/releases/download/macos-v2.9.1/CSAH-Media-Downloader-2.9.1-build-57-macOS-arm64.zip" sparkle:edSignature="Amg6+KET8WGx+wuT9ulVriX0TKkywNSsxaLM5TbtQPQK4d5hh3I52ulrrkiihxzN8wIf5pTvy/oGaoBFXPlUCw==" length="51062401" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>CSAH Media Downloader 2.9.1</title>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>2.9.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Tue, 10 Nov 2026 23:20:17 GMT</pubDate>
+      <description>CSAH Media Downloader 2.9.1（build 55）
+
+- 新增 Threads：可下載公開貼文中的影片，包含多支影片與圖文混合貼文中的影片。
+- 帳務與付款頁連線更穩定：等待時間延長，查詢失敗會自動重試；網路中斷時顯示專屬提示，恢復後自動重新查詢。不會自動重送付款或取消操作。
+- 帳務發生問題時顯示錯誤代碼，並可直接回報問題，回報內容會自動帶入代碼。
+- 帳務日期改以這台電腦的時區顯示。
+- 選擇「QuickTime 相容」時，提示此選項需要較長的處理時間。
+
+支援Apple Silicon及macOS 13或更新版本。2.8.0及更早版本首次仍需手動安裝含更新器的版本。</description>
+      <enclosure url="https://github.com/catstayathome-collab/YT-Downloader-Pro/releases/download/macos-v2.9.1/CSAH-Media-Downloader-2.9.1-build-55-macOS-arm64.zip" sparkle:edSignature="yvN8oDO7TLQLrcGxVpzPHETtnsBC4D64mCwLi3kLQjxMgoqood25ysh3DPM6s1cwwt01CqYNHawW5A4scghvBg==" length="51064867" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>CSAH Media Downloader 2.8.2</title>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>2.8.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Fri, 06 Nov 2026 21:48:55 GMT</pubDate>
+      <description>CSAH Media Downloader 2.8.2（build 52）
+
+- 強化異常或過大的縮圖與下載工具輸出處理。
+- 服務忙碌時顯示稍後重試提示；保留既有付款紀錄，不自動重送付款或取消操作。
+- 沿用App內更新流程：下載並驗證更新後，等待既有執行中與排隊影片完成，再安裝並重新啟動。
+
+支援Apple Silicon及macOS 13或更新版本。2.8.0及更早版本首次仍需手動安裝含更新器的版本。</description>
+      <enclosure url="https://github.com/catstayathome-collab/YT-Downloader-Pro/releases/download/macos-v2.8.2/CSAH-Media-Downloader-2.8.2-build-52-macOS-arm64.zip" sparkle:edSignature="PkahqwAyGSoqfN3bvUFgfw8itmI4l7Z18HAFh06BY4kqDzLxgviJ+3ALpmhgjHRFAFoWNGi/yDnOuQWJ5P9GBA==" length="51004719" type="application/octet-stream" />
+    </item>
+    <item>
+      <title>CSAH Media Downloader 2.8.1</title>
+      <sparkle:version>51</sparkle:version>
+      <sparkle:shortVersionString>2.8.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Fri, 06 Nov 2026 14:01:52 GMT</pubDate>
+      <description>CSAH Media Downloader 2.8.1
+
+App 內下載並驗證更新，左下角顯示進度。等待全部既有執行中與排隊影片結束，再自動安裝並重啟。取消更新不會中止影片下載。更新安裝前保留帳號、方案與下載紀錄；付款進行中會等待。
+
+2.8.0 及更早版本首次需手動安裝本版；本版起提供 Sparkle App 內更新。macOS13+、Apple Silicon；正式金流驗收範圍維持既有紀錄。</description>
+      <enclosure url="https://github.com/catstayathome-collab/YT-Downloader-Pro/releases/download/macos-v2.8.1/CSAH-Media-Downloader-2.8.1-build-51-macOS-arm64.zip" sparkle:edSignature="bx8jSozvd/2+GQLKkc02xhgZQfCpllWtE0zQuwqqQqNsqaQfCr+0qD8CY6Ea4ZOHumNS1vRuEGKLMN+0JLHpCg==" length="50942261" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: MgUY13O9sNpQUbtTnmqwxY6l7Bs5wfjcl2d75MyslT2bQp92577/4sMLEHa2OJ0uIkR0x49sIxsDGwGLpfmQBw==
+length: 6874
+-->
