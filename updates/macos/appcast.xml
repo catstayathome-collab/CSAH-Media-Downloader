@@ -3,6 +3,22 @@
   <channel>
     <title>CSAH Media Downloader updates</title>
     <item>
+      <title>CSAH Media Downloader 2.9.3</title>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>2.9.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Fri, 13 Nov 2026 10:06:13 GMT</pubDate>
+      <description>CSAH Media Downloader 2.9.3（build 63）
+
+- 在 macOS 26 或更新版本上改用 Liquid Glass 外觀：標題列、網址列與批次按鈕合為一片玻璃，分析狀態浮在清單上方，對話框與設定頁也一併更新。
+- 讀不到瀏覽器 Cookie 時，會說明原因、帶你到系統設定開啟權限，並可直接重新分析或改為不使用 Cookie。以前只會顯示「無法分析這個媒體」。
+- App 語言與系統語言不同時，中文、日文與韓文改依 App 的語言排版，例如日文系統下的繁體中文，逗號後不再多出空白。
+
+支援Apple Silicon及macOS 13或更新版本。2.8.0及更早版本首次仍需手動安裝含更新器的版本。</description>
+      <enclosure url="https://github.com/catstayathome-collab/CSAH-Media-Downloader/releases/download/macos-v2.9.3/CSAH-Media-Downloader-2.9.3-build-63-macOS-arm64.zip" sparkle:edSignature="9xHpF7bQZg4cQfesU343YMkg+Ve1CuJEwR5HkqFbEpQPTa5jLWwv8j9TCD2JACVlGsUcArKrqVYR4d/VlsXSBQ==" length="51274430" type="application/octet-stream" />
+    </item>
+    <item>
       <title>CSAH Media Downloader 2.9.2</title>
       <sparkle:version>58</sparkle:version>
       <sparkle:shortVersionString>2.9.2</sparkle:shortVersionString>
@@ -88,6 +104,6 @@ App 內下載並驗證更新，左下角顯示進度。等待全部既有執行�
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: MgUY13O9sNpQUbtTnmqwxY6l7Bs5wfjcl2d75MyslT2bQp92577/4sMLEHa2OJ0uIkR0x49sIxsDGwGLpfmQBw==
-length: 6874
+edSignature: vwybsp88uPOPj/8maiLWNmRCWCvku2uZMk15cJ9qDh3iulUU1SFlCXpjjmUSGxWbMKYmjkcLi8OLfDnAfDCTAQ==
+length: 8334
 -->
