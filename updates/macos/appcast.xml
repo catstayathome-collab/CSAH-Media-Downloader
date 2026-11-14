@@ -3,6 +3,20 @@
   <channel>
     <title>CSAH Media Downloader updates</title>
     <item>
+      <title>CSAH Media Downloader 2.9.4</title>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>2.9.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Sat, 14 Nov 2026 12:02:52 GMT</pubDate>
+      <description>CSAH Media Downloader 2.9.4（build 64）
+
+- 修正 Bilibili 連結分析失敗：b23.tv 分享短網址，以及含語言代碼的影片網址（例如 bilibili.com/zh-Hans/video/BV…），現在都會以對應的影片頁分析與下載。
+
+支援Apple Silicon及macOS 13或更新版本。2.8.0及更早版本首次仍需手動安裝含更新器的版本。</description>
+      <enclosure url="https://github.com/catstayathome-collab/CSAH-Media-Downloader/releases/download/macos-v2.9.4/CSAH-Media-Downloader-2.9.4-build-64-macOS-arm64.zip" sparkle:edSignature="4WwDyvWkMol2QgFqy21so7QV65d2aRayd2rXMkX8veK/6TQKQqLk7Q/1tQF+MUUT9KFCqk5w+r0sGViMnPFtAg==" length="51275661" type="application/octet-stream" />
+    </item>
+    <item>
       <title>CSAH Media Downloader 2.9.3</title>
       <sparkle:version>63</sparkle:version>
       <sparkle:shortVersionString>2.9.3</sparkle:shortVersionString>
@@ -104,6 +118,6 @@ App 內下載並驗證更新，左下角顯示進度。等待全部既有執行�
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: vwybsp88uPOPj/8maiLWNmRCWCvku2uZMk15cJ9qDh3iulUU1SFlCXpjjmUSGxWbMKYmjkcLi8OLfDnAfDCTAQ==
-length: 8334
+edSignature: kiAhNjmKFgmyWbPn3xpUfDNCXRz7NBsZU+/k1UyW9JWtQ/67aKwNHAD5+s+DFfUSoP24+y4iePczKOZvRDXKBA==
+length: 9448
 -->
