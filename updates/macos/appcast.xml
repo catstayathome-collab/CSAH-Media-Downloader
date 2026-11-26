@@ -3,6 +3,23 @@
   <channel>
     <title>CSAH Media Downloader updates</title>
     <item>
+      <title>CSAH Media Downloader 2.9.5</title>
+      <sparkle:version>70</sparkle:version>
+      <sparkle:shortVersionString>2.9.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Thu, 26 Nov 2026 22:37:04 GMT</pubDate>
+      <description>CSAH Media Downloader 2.9.5（build 70）
+
+- 修正 YouTube 影片無法分析：YouTube 更換播放器程式後，所有 YouTube 連結都會在分析時失敗，並顯示「所選格式已無法使用」。現在已恢復正常。
+- YouTube 的第一種連線方式拿不到任何格式時，會自動改用另一種方式再試一次。
+- 修正「全部暫停」有時沒有停住正在繼續中的下載。
+- 修正合併影片或轉成 MP3 時，狀態偶爾跳回「下載中」。
+
+支援Apple Silicon及macOS 13或更新版本。2.8.0及更早版本首次仍需手動安裝含更新器的版本。</description>
+      <enclosure url="https://github.com/catstayathome-collab/CSAH-Media-Downloader/releases/download/macos-v2.9.5/CSAH-Media-Downloader-2.9.5-build-70-macOS-arm64.zip" sparkle:edSignature="i60cJhr49lrfYuDZlrLQW4f3OvFaSR/zM9a9oRR3HlHLCLDRvPAT/csO+gcxsQI44vheXiaJYI5zrkU1SlEdCA==" length="51338999" type="application/octet-stream" />
+    </item>
+    <item>
       <title>CSAH Media Downloader 2.9.4</title>
       <sparkle:version>64</sparkle:version>
       <sparkle:shortVersionString>2.9.4</sparkle:shortVersionString>
@@ -118,6 +135,6 @@ App 內下載並驗證更新，左下角顯示進度。等待全部既有執行�
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: kiAhNjmKFgmyWbPn3xpUfDNCXRz7NBsZU+/k1UyW9JWtQ/67aKwNHAD5+s+DFfUSoP24+y4iePczKOZvRDXKBA==
-length: 9448
+edSignature: LErtcrPXsU1AKiJuDJp0ckR5TMvsyS4l53aGJwrA/+iGR41oy5bFziKWkWpSblJmPmMtAD5IhByrijjooEqQDQ==
+length: 10809
 -->
