@@ -3,6 +3,23 @@
   <channel>
     <title>CSAH Media Downloader updates</title>
     <item>
+      <title>CSAH Media Downloader 2.9.6</title>
+      <sparkle:version>72</sparkle:version>
+      <sparkle:shortVersionString>2.9.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0.0</sparkle:minimumSystemVersion>
+      <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+      <pubDate>Fri, 27 Nov 2026 16:50:25 GMT</pubDate>
+      <description>CSAH Media Downloader 2.9.6（build 72）
+
+- 新功能：YouTube 選段下載。分析 YouTube 影片後，可以看重播熱度曲線、拖曳選出一段，只下載這一段。Free 與 Pro 都能用（Free 畫質上限仍是 1080p）。
+- 長影片只抓選段附近的資料，不必先下載整支。例如 2.5 小時的影片取其中 5 分鐘的 4K，約 4 分鐘完成。
+- 沒有熱度資料的影片也能手動輸入範圍；常用的選段可以存起來再用。
+- 選段會轉成 QuickTime 相容格式。選了瀏覽器 Cookie 時，仍會先下載整支再剪，所以比較慢；HDR 影片無法選段。
+
+支援Apple Silicon及macOS 13或更新版本。2.8.0及更早版本首次仍需手動安裝含更新器的版本。</description>
+      <enclosure url="https://github.com/catstayathome-collab/CSAH-Media-Downloader/releases/download/macos-v2.9.6/CSAH-Media-Downloader-2.9.6-build-72-macOS-arm64.zip" sparkle:edSignature="VHen4JmMv2K/lqAiu7JQ9CybX7xhhLbcMouC4k5IGY3Xm8a+mUIVO4DTx/ROurHuxnJ073/b2g8ZexQ4iPjQCw==" length="51534015" type="application/octet-stream" />
+    </item>
+    <item>
       <title>CSAH Media Downloader 2.9.5</title>
       <sparkle:version>70</sparkle:version>
       <sparkle:shortVersionString>2.9.5</sparkle:shortVersionString>
@@ -135,6 +152,6 @@ App 內下載並驗證更新，左下角顯示進度。等待全部既有執行�
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: LErtcrPXsU1AKiJuDJp0ckR5TMvsyS4l53aGJwrA/+iGR41oy5bFziKWkWpSblJmPmMtAD5IhByrijjooEqQDQ==
-length: 10809
+edSignature: v4joHAPS/zpumHVwucO9leQ3wDDYDhzuT8dZWDzdTZ46oaHdDIFlgXbZABDCVfL3BWNBUfQsYIJy4D8EuV+EDg==
+length: 12302
 -->
